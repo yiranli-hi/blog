@@ -7,7 +7,7 @@ author: Author Name
 # authorlink: https://author.site
 cover: /img/cover.jpg
 images:
-  - /img/me.jpeg
+  - me.jpeg
 categories:
   - category1
 tags:
