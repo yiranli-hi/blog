@@ -1,6 +1,6 @@
 ---
 title: About Me
-cover: /img/me.jpg
+cover: me.jpeg
 ---
  
 Hi, my name is Yiran Li.
