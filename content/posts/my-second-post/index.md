@@ -6,19 +6,20 @@ author: Yiran Li
 # avatar: /img/author.jpg
 # authorlink: https://author.site
 cover: me.jpeg
-images:
-  - me.jpeg
+# images:
+#   - me.jpeg
 categories:
   - category1
 tags:
   - tag1
   - tag2
 # nolastmod: true
-#draft: true
 ---
 
-This is my second post.
+This is my first post.
 
 <!--more-->
 
-The remaining content of your post.
+The remaining content of your post. Here is my image:
+
+![Me in Florence](me.jpeg)
