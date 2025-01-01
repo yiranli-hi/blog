@@ -17,6 +17,7 @@ tags:
 From the video made by Ali Abdaal
 1. Step-back language/distancing language
 ![Sea2.jpeg](Sea2.jpeg)
+
 **How**: 
 Write the thoughts (that make you stressed) down. 
 Start with the sentence with “I’m having thoughts that...”
@@ -31,6 +32,7 @@ We don’t ignore these thoughts, but not taking them too seriously or sincerely
 
 2. Spin the Feelings Wheel
 ![Feeling-Wheels.png](Feeling-Wheels.png)
+
 **How:** 
 Ask ourself: 
 (1). Which of these feelings am I experiencing right now? 
@@ -66,6 +68,7 @@ Mental filter is cognative bias that our brain focuses on the negative things an
 
 6. Mindfulness Mental Muscle
 ![Sea1.jpeg](Sea1.jpeg)
+
 **How:** 
 e.g., meditation. Choose to not be stressed in that moment
 
