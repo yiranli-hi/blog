@@ -5,7 +5,7 @@ lastmod: 2025-01-01
 author: Yiran Li
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-cover: Antalya-sea.jpeg
+cover: Sea1.jpeg
 # images:
 #   - me.jpeg
 categories:
@@ -20,7 +20,7 @@ From the video made by Ali Abdaal
 Write the thoughts (that make you stressed) down. 
 Start with the sentence with “I’m having thoughts that...”
 Or “I’m noticing the thought that...”. 
-![Antalya sea.jpeg](Antalya%20sea.jpeg)
+
 **Why:**
 Prepare yourself that this is a thought NOT a fact.
 Create a safe distance between us and our thoughts so that we can see that thought for what it is. 
@@ -61,7 +61,7 @@ Mental filter is cognative bias that our brain focuses on the negative things an
 e.g., meditation. Choose to not be stressed in that moment
 **Why:** 
 Focusing on the present and not allowing our thoughts to run wild
-![Antalya-sea.jpeg](Antalya-sea.jpeg)
+![Sea1.jpeg](Sea1.jpeg)
 7.The Self-help Box
 How: Use strategies, activities, or tools that brings you comfort. e.g., music, perfume. 
 
