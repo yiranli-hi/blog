@@ -5,7 +5,7 @@ lastmod: 2025-01-01
 author: Yiran Li
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-cover: me.jpeg
+cover: Antalya-sea.jpeg
 # images:
 #   - me.jpeg
 categories:
@@ -32,8 +32,7 @@ Ask ourself:
 (1). Which of these feelings am I experiencing right now? 
 OR 
 (2). Which of these feelings have I experienced over the last two weeks?
-[Feelings-wheel.webp](Feelings-wheel.webp)
-[Feelings-Wheel-8.5x11.pdf](Feelings-Wheel-8.5x11.pdf)
+
 **Why:**
 Being able to identify what the specific feeling or emotion actually is, and think why it happened may help to find better solutions. 
 
