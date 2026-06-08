@@ -14,8 +14,7 @@ tags:
   - Mental health
 # nolastmod: true
 ---
-Feeling stressed? Here are practical tips I've gathered from Ali Abdaal's video to manage stress and boost mental well-being.
-
+From the video made by Ali Abdaal
 1. Step-back language/distancing language
 ![Sea2.jpeg](Sea2.jpeg)
 

@@ -1,6 +1,7 @@
 ---
 title: "Reading Notes: Anxious People"
 date: 2026-06-07
+cover: lake.jpg
 draft: false
 tags:
   - Reading
