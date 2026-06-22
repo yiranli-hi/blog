@@ -1,6 +1,6 @@
-baseurl = "https://https://yiranli-hi.github.io/blog"
+baseurl = "https://yiranli-hi.github.io/blog"
 defaultContentLanguage = "en"
-languageCode = "en"
+locale = "en"
 title = "Yiran Li's Blog"
 theme = "dream"
 
