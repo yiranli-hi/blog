@@ -1,6 +1,7 @@
 ---
 title: "Reading notes: The Courage to Be Disliked"
 date: 2026-06-21
+cover: Sea2.jpeg
 draft: false
 tags:
   - Reading

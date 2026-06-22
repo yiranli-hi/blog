@@ -1,26 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 24 Dec 2024 18:12:28 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Article Title</title>
-      <link>http://localhost:1313/posts/article-title/</link>
-      <pubDate>Tue, 24 Dec 2024 18:12:28 +0100</pubDate>
-      <guid>http://localhost:1313/posts/article-title/</guid>
-      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Article Title</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Tue, 24 Dec 2024 18:12:28 +0100</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;p&gt;This is my first post.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Yiran Li's Blog</title><link>https://yiranli-hi.github.io/blog/posts/</link><description>Recent content in Posts on Yiran Li's Blog</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 21 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://yiranli-hi.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Reading notes: The Courage to Be Disliked</title><link>https://yiranli-hi.github.io/blog/posts/reflections-on-the-courage-to-be-disliked/</link><pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate><guid>https://yiranli-hi.github.io/blog/posts/reflections-on-the-courage-to-be-disliked/</guid><description>&lt;p&gt;&lt;em&gt;The Courage to Be Disliked&lt;/em&gt; has received a lot of attention and recommendations, and even its title is very attracting. The title suggests that the book is about not caring too much about others&amp;rsquo; evaluations of us. However, the book goes beyond this idea and provides more structured guidance on how we can develop ourselves and how we can live a better life.&lt;/p&gt;
+&lt;p&gt;The book presents the psychological philosophy of Alfred Adler. He is actually regarded as one of the three major figures in psychology alongside Freud and Jung.&lt;/p&gt;</description></item><item><title>Reading Notes: Anxious People</title><link>https://yiranli-hi.github.io/blog/posts/reading-notes/</link><pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate><guid>https://yiranli-hi.github.io/blog/posts/reading-notes/</guid><description>&lt;p&gt;I recently finished reading &lt;em&gt;Anxious People&lt;/em&gt; by Swedish author Fredrik Backman.&lt;/p&gt;
+&lt;p&gt;Initially, I was drawn to the title because I believe that in today&amp;rsquo;s society—rapid social change, mounting uncertainty, and the overwhelming flood of information that accompanies it (&amp;ldquo;information curse&amp;rdquo;)—psychological issues have become increasingly prevalent.&lt;/p&gt;
+&lt;p&gt;This made me curious to explore what insights the book might offer about managing anxiety.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;This is a dark humor story.&lt;/p&gt;
+&lt;p&gt;The feeling it gave me is similar to another recent read: &lt;em&gt;The Miracles of the Namiya General Store&lt;/em&gt;, a lovely short story by a Japanese writer.&lt;/p&gt;</description></item><item><title>How to manage stress and anxiety</title><link>https://yiranli-hi.github.io/blog/posts/how-to-manage-stress-and-anxiety/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://yiranli-hi.github.io/blog/posts/how-to-manage-stress-and-anxiety/</guid><description>&lt;p&gt;From the video made by Ali Abdaal&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Step-back language/distancing language
+&lt;img src="Sea2.jpeg" alt="Sea2.jpeg"&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;How&lt;/strong&gt;:
+Write the thoughts (that make you stressed) down.
+Start with the sentence with “I’m having thoughts that&amp;hellip;”
+Or “I’m noticing the thought that&amp;hellip;”.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why:&lt;/strong&gt;
+Prepare yourself that this is a thought NOT a fact.&lt;/p&gt;
+&lt;p&gt;Create a safe distance between us and our thoughts so that we can see that thought for what it is.&lt;/p&gt;
+&lt;p&gt;We don’t ignore these thoughts, but not taking them too seriously or sincerely.&lt;/p&gt;</description></item></channel></rss>

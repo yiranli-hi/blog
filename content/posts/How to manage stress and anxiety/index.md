@@ -16,7 +16,6 @@ tags:
 ---
 From the video made by Ali Abdaal
 1. Step-back language/distancing language
-![Sea2.jpeg](Sea2.jpeg)
 
 **How**: 
 Write the thoughts (that make you stressed) down. 
