@@ -1,5 +1,5 @@
 ---
-title: "Reflections on The Courage to Be Disliked"
+title: "Reading notes: The Courage to Be Disliked"
 date: 2026-06-21
 draft: false
 tags:
